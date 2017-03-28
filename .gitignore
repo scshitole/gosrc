@@ -1,0 +1,9 @@
+*.tfstate*
+.idea/
+bin/
+target/
+#test files
+bigip.test
+*.tf
+vendor/.DS_Store
+.DS_Store
